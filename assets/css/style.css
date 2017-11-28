@@ -1,0 +1,133 @@
+
+/* background image link : (http://lorempixel.com/output/abstract-q-c-640-480-7.jpg) */
+body {
+    padding: 0;
+    line-height: 150%;
+    background: #666666;
+    background-image: url(../images/stars.png);
+    background-position: center right;
+    background-repeat: repeat;
+}
+.header {
+    height: 74px;
+    background: white;
+    border-bottom: 2px solid #cccccc;
+}
+h1 {
+    width: 150px;
+    background-color: #4aaaa5;
+    text-align: center;
+    color: white;
+    padding: 25px 15px;
+    font-size: 24px;
+    margin: 0 0 0 100px;
+    float: left;
+}
+
+ul li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: #777777;
+}
+a:hover {
+    color: orange;
+}
+.nav {
+    background-color: white;
+    text-align:center;
+    padding: 0;
+    margin: 25px 0 15px 530px;
+    float:left;
+}
+
+.nav li {
+    padding: 0 20px 0 20px;
+    background: white;
+}
+.nav li:first-child {
+    border-right: 2px solid lightgrey;  
+}
+
+.nav li:last-child {
+    border-left: 2px solid lightgrey;
+}
+
+.main-content img {
+    float: left;
+    padding-right: 20px;
+}
+
+h2, h3 {
+    color: #4aaaa5;
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+h2 {
+    font-size: 24px;
+    padding: 20px 0;
+    border-bottom: 3px solid lightgrey;
+    
+}
+h3 {
+    border-bottom: 3px solid lightgrey;
+    font-size: 20px;
+    margin: 10px 30px 10px 30px;
+    padding: 15px 0 15px 0;
+}
+p {
+    color: #777777;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.main-section-content {
+    width: 650px;
+    background: white;
+    float: left;
+    margin: 30px 0 30px 100px;
+    padding: 15px;
+    clear: both;
+}
+
+.sidebar {
+    width: 270px;
+    height: 170px;
+    text-align: center;
+    margin: 30px;
+    background-color:white;
+    float: left;    
+}
+
+ul {
+    padding: 10px;
+}
+
+.logos li {
+    display: inline;
+    padding: 0 5px 0 5px;
+}
+
+footer {
+    background: #666666;
+    padding: 20px;
+    border-top: 6px solid #4aaaa5;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    clear: both;
+}
+/* For contact page */
+input {
+    width: 500px;
+    margin-bottom: 25px;
+
+    input[type=submit]{
+        width: 120px;
+        font-size: 30px;
+    }
+    
+
+
+
+
