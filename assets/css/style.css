@@ -177,7 +177,27 @@ textarea {
     text-align: center;
 }
 
-.portfolio1 a {
+#pic1 a {
+    background: #4aaaa5;
+    color:white;
+    width: 315px;
+    height:30px;
+    position: absolute;
+    margin: -50px 0 0 0;
+    border: 0;
+    text-align: center;
+}
+#pic2 a {
+    background: #4aaaa5;
+    color:white;
+    width: 315px;
+    height:30px;
+    position: absolute;
+    margin: -50px 0 0 0;
+    border: 0;
+    text-align: center;
+}
+#pic3 a {
     background: #4aaaa5;
     color:white;
     width: 315px;
@@ -192,6 +212,7 @@ textarea {
     float:left;
     margin:20px 10px 0 0;
 }
+
 #pic2 {
     float:left;
     margin:20px 0 0 10px;
