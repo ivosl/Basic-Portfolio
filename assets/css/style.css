@@ -176,11 +176,13 @@ textarea {
     border: 0;
     text-align: center;
 }
-a {
+.portfolio1 a {
     color: white;
 }
 
-
+.portfolio1 a:hover {
+    color:black;
+}
 
 #pic1 {
     float:left;
