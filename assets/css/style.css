@@ -208,6 +208,11 @@ textarea {
     clear: both;
     margin-bottom: 30px;
 }
+#pic6 {
+    float:left;
+    margin:20px 0 0 10px;
+    margin-bottom: 30px;
+}
 
 /* End */
 
